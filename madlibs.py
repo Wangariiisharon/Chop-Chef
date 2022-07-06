@@ -1,0 +1,8 @@
+place=input("where do you live? \n")
+animal=input("Your pet is a? \n")
+color=input(" favourite color? \n")
+vegetable=input("favourite vegetable \n")
+pick=input(" pick Tomatoes or lemons \n")
+name=input("your name \n")
+snack=input("favourite snack \n") 
+print(f"On my way to {place} i saw a {animal} with {color} fur. Its ears looked like {vegetable} with eyes like  {pick}. I got scared and called my friend {name} and she offerd {snack} to help calm my nerves ")
